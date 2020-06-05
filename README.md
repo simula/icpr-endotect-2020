@@ -72,7 +72,7 @@ ask For the efficient detection task, we ask participants to submit a docker ima
 For the segmentation task, we will use the standard metrics commonly used to evaluate segmentation tasks. This includes the Dice coefficient, pixel accuracy, and the Intersection-Over-Union (Jaccard index). The metric which will be used to rank submissions will be the Dice coefficient.
 
 ## Who are the task organizers?
-* Steven Hicks, steven@simula,no, SimulaMet & OsloMet
+* Steven Hicks, steven@simula.no, SimulaMet & OsloMet
 * Debesh Jha, debesh@simula.no, SimulaMet & University of Tromsø
 * Hugo Hammer, hugoh@oslomet.no, SimulaMet & OsloMet
 * Pål Halvorsen, paalh@simula.no, SimulaMet & OsloMet
