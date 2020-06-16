@@ -2,6 +2,8 @@
 
 If you are interested, let is know by filling out this form https://forms.gle/iMWGsZC6tAMeV6EA9.
 
+The deveopment dataset for the challenge is available here: https://osf.io/mh9sj/
+
 ## What is this challenge about?
 The human digestive system is prone to suffer from many different diseases and abnormalities throughout a human lifetime. Some of these may be life-threatening and pose a serious risk to a patient's health and well-being. In most cases, if the detection of lethal disease is done early enough, it can be treated with a high chance of being fully healed. Therefore, it is important that all lesions are identified and reported during a routine investigation of the GI tract. Currently, the gold-standard in performing these investigations is through video endoscopies, which is a procedure involving a small camera attached to a tube that is inserted either orally or rectally. However, there is one major downside to this procedure. The method is highly dependent on the skill and experience of the person operating the endoscope, which in turn results in a high operator variation and performance. This is one of the reasons for high miss-rates when measuring polyp detection performance, with some miss-rates being as high as 20%. We see this as an opportunity to aid medical doctors by helping them detect lesions through automatic frame analysis done live during endoscopy examinations. The pattern recognition community has a lot of knowledge which could assist in this task, making it a perfect fit for ICPR. The work done in this competition has the potential of making a real societal impact, as it directly affects the quality of care that health-care professionals can provide. 
 
