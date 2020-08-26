@@ -2,7 +2,7 @@
 
 If you are interested, let is know by filling out this form https://forms.gle/iMWGsZC6tAMeV6EA9.
 
-The deveopment dataset for the challenge is available here: https://osf.io/mh9sj/.
+The development dataset for the challenge is available here: https://osf.io/mh9sj/.
 
 Check out the wiki for more details: https://github.com/simula/icpr-endotect-2020/wiki.
 
