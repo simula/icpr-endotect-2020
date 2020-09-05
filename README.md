@@ -70,7 +70,7 @@ Each metric is further explained below:
 * **F1 score (F1)**<br>A measure of a test’s accuracy by calculating the harmonic mean of the precision and recall.
 
 ### Efficient Detection Task
-ask For the efficient detection task, we ask participants to submit a docker image so that we can evaluate the speed and efficiency of the proposed algorithm. Here, we will use a combination of the classification score and the number of frames processed per second to evaluate each submission. The focus here is on the "speed" aspect of the algorithm, so the only requirement from a classification standpoint is that it exceeds a set MCC threshold so that it is still viable for in-clinic use.
+For the efficient detection task, we ask participants to submit a docker image so that we can evaluate the speed and efficiency of the proposed algorithm. Here, we will use a combination of the classification score and the number of frames processed per second to evaluate each submission. The focus here is on the "speed" aspect of the algorithm, so the only requirement from a classification standpoint is that it exceeds a set MCC threshold so that it is still viable for in-clinic use.
 
 ### Segmentation Task
 For the segmentation task, we will use the standard metrics commonly used to evaluate segmentation tasks. This includes the Dice coefficient, pixel accuracy, and the Intersection-Over-Union (Jaccard index). The metric which will be used to rank submissions will be the Dice coefficient.
